@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a4bf570e64bd7414883ba24df18d7e06
+timeCreated: 1540327612
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jewelry Design Shapes
+  fontNames:
+  - Jewelry Design Shapes
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
